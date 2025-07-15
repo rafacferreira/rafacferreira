@@ -3,11 +3,11 @@
 Bem-vindos ao meu portfólio no GitHub!  
 Welcome to my GitHub portfolio!
 
-PT 
+🇧🇷  
 Estou cursando **Ciência de Dados** em uma faculdade. Sou apaixonada por **melhoria de processos** e adoro usar **dados para simplificar e otimizar a vida**.  
 Aqui você encontra meus projetos, estudos e experimentos!  
 
-EN 
+🇺🇸  
 I'm currently pursuing a **Bachelor's degree in Data Science**. I'm passionate about **process improvement** and love using **data to simplify and optimize life**.  
 Here you’ll find my projects, studies, and experiments!
 
@@ -15,12 +15,17 @@ Here you’ll find my projects, studies, and experiments!
 
 ## 🛠️ Tecnologias / Technologies
 
-- **SQL** 
-- **Python**  
+- **SQL** 👍  
+- **Python** ✌️  
   - Pandas, NumPy, Seaborn, Matplotlib  
-- **Excel**
+- **Excel** 🙌
 
 ---
+
+## 🌍 Idiomas / Languages
+
+- 🇧🇷 Português/Portuguese (nativo/native)  
+- 🇺🇸 Inglês/English (fluent, I mean it)
 
 ##
 
