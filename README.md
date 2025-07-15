@@ -1,16 +1,26 @@
-## Oiê! Eu sou a Rafaela Ferreira e bem vindxs ao meu perfil no GitHub!
+## 👋 Oiê! / Hello there!  
+### Eu sou a Rafaela Ferreira — I'm Rafaela Ferreira  
+Bem-vindos ao meu portfólio no GitHub!  
+Welcome to my GitHub portfolio!
 
-Eu estou cursando Estatística e sou apaixonada por dados. É aqui que eu mantenho os meus projetos. 😀
+PT 
+Estou cursando **Ciência de Dados** em uma faculdade. Sou apaixonada por **melhoria de processos** e adoro usar **dados para simplificar e otimizar a vida**.  
+Aqui você encontra meus projetos, estudos e experimentos!  
 
-👌Excel
+EN 
+I'm currently pursuing a **Bachelor's degree in Data Science**. I'm passionate about **process improvement** and love using **data to simplify and optimize life**.  
+Here you’ll find my projects, studies, and experiments!
 
-👍Power BI
+---
 
-✌️SQL
+## 🛠️ Tecnologias / Technologies
 
-🙌R
+- **SQL** 
+- **Python**  
+  - Pandas, NumPy, Seaborn, Matplotlib  
+- **Excel**
 
-🤏Python: Pandas, Numpy, Seaborn, MatPlotLib
+---
 
 ##
 
